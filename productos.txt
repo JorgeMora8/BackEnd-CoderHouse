@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Iphone 13 Pro Max",
+    "precio": 850,
+    "estado": "Usado"
+  },
+  {
+    "id": 2,
+    "nombre": "Redmi Note 9",
+    "precio": 375,
+    "estado": "Usado"
+  },
+  {
+    "id": 3,
+    "nombre": "Redmi Poco M3",
+    "precio": 250,
+    "estado": "Usado"
+  },
+  {
+    "id": 4,
+    "nombre": "Samsung s21 Pro",
+    "precio": 420,
+    "estado": "Nuevo"
+  }
+]
